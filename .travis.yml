@@ -1,0 +1,5 @@
+arch:
+  - amd64
+  - ppc64le
+script:
+  - bower install html5shiv --save
