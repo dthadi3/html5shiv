@@ -6,4 +6,4 @@ before_script:
   - npm install -g bower
 script:
   - bower install html5shiv --save
-  - npm test
+  - bower test
